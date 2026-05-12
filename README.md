@@ -5,12 +5,12 @@
 This project analyzes e-commerce data using Power BI, focusing on
 revenue, customer behavior, and product performance.
 
-## Dataset
+## Datasets size(rows,columns):
 
-* Customers: 8,000
-* Orders: 25,000
-* Product Summary: 140
-* Monthly Revenue: 75
+* Customers: (8000,20)
+* Orders: (250000,28)
+* Product Summary: (140,9)
+* Monthly Revenue: (75,10)
 
 ## Key Metrics
 
